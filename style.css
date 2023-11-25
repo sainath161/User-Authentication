@@ -493,7 +493,7 @@ body {
 
     .container1,
     .container {
-        width: 90%;
+        width: 100%;
         margin: auto;
         position: relative;
         display: flex;
@@ -552,7 +552,7 @@ body {
 
     .container1,
     .container {
-        width: 90%;
+        width: 100%;
         margin: auto;
         position: relative;
         display: flex;
@@ -611,7 +611,7 @@ body {
 
     .container1,
     .container {
-        width: 90%;
+        width: 100%;
         margin: auto;
         position: relative;
         display: flex;
